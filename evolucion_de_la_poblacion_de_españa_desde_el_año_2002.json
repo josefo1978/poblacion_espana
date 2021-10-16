@@ -1,22 +1,5 @@
 ﻿{
-    "Url": "www.epdata.es/evolucion-poblacion-espana/866ce3ba-d62d-433f-be92-4dab5746757d/espana/106",
-    "Respuesta": {
-        "Id": "866ce3ba-d62d-433f-be92-4dab5746757d",
-        "Url": "www.epdata.es/evolucion-poblacion-espana/866ce3ba-d62d-433f-be92-4dab5746757d/espana/106",
-        "Titulo": "Evolución de la población de España desde el año 2002",
-        "Subtitulo": "La población de España se sitúa en 47.394.224 personas ",
-        "Datos": {
-            "Metricas": [
-                {
-                    "Id": 0,
-                    "Nombre": "Cifras de población a nivel semestral - Número de personas para total como sexo, total como grupo quinquenal de edad, España como país de residencia y Total como país de nacionalidad",
-                    "SonDatosNumericos": true,
-                    "Fuente": "INE",
-                    "Clasificacion": null,
-                    "Unidad": "Número de personas",
-                    "Escala": "Millones",
-                    "EscalaFactorPotencia10": 6,
-                    "datos": [
+              "datos": [
                         {
                             "Agno": 2002,
                             "Periodo": "Semestre 1",
@@ -330,8 +313,5 @@
                             "Notas": null
                         }
                     ]
-                }
-            ]
-        }
     }
 }
