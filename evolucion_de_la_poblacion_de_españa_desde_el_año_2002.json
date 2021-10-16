@@ -16,7 +16,7 @@
                     "Unidad": "Número de personas",
                     "Escala": "Millones",
                     "EscalaFactorPotencia10": 6,
-                    "Datos": [
+                    "datos": [
                         {
                             "Agno": 2002,
                             "Periodo": "Semestre 1",
